@@ -31,7 +31,7 @@ Follow the on-screen prompts to input sensor data, compute areas, generate repor
 
 ## Contributing
 
-Contributions to the Enterprise-2D Shape Analysis Program are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+Contributions to the Space Shape Analyser Program are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
