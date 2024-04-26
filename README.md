@@ -1,4 +1,4 @@
-# Space Shape Analyzer Program
+# Space Shape Analyser
 
 ## Overview
 
