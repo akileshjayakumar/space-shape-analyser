@@ -1,38 +1,52 @@
-# Space Shape Analyser Program
+# Space Shape Analyzer Program
 
 ## Overview
 
-The Space Shape Analyzer Program is a C++ application designed to analyze 2D geometric shapes. It is capable of reading sensor data for various shapes, computing their area, generating reports, and sorting the shape data based on different criteria. This program is inspired by a futuristic scenario where such computations are needed aboard the starship Enterprise-2D.
+The Space Shape Analyzer Program is a C++ application that analyzes 2D geometric shapes. Ideal for environments requiring precise measurements, such as aboard the futuristic starship Enterprise-2D, this program excels in reading sensor data, calculating areas, generating comprehensive reports, and organizing shape data based on various criteria.
 
-## Features
+## Key Features
 
-- **Input Sensor Data**: Allows manual input of sensor data related to different 2D shapes.
-- **Compute Area**: Calculates the area (referred to as 'mass' within the context) of the input shapes.
-- **Shapes Report**: Generates a detailed report listing points on the perimeter or within the shape's area.
-- **Sort Shape Data**: Enables sorting of shape data by type, area (ascending/descending), and special criteria.
+- **Input Sensor Data**: Manually input sensor data for various 2D shapes.
+- **Compute Area**: Calculates the 'mass' (area) of the shapes based on input data.
+- **Shapes Report**: Generates detailed reports highlighting points on the perimeter and inside the shape.
+- **Sort Shape Data**: Sorts shape data by type, area (in ascending or descending order), and other specific criteria.
 
-## Installation
+## Project Setup
 
-To run the Space Shape Analyzer Program, ensure you have a C++ compiler installed on your system. Clone this repository to your local machine using the following command:
+To set up the Space Shape Analyzer Program, you'll need a C++ compiler. Follow these steps to get started:
 
-git clone https://github.com/yourusername/space-shape-analyzer.git
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/space-shape-analyzer.git
+   ```
 
-## Usage
+2. **Compile the Program**:
+   Navigate to the project directory and compile the program using your C++ compiler:
+   ```bash
+   g++ -o SpaceShapeAnalyzer SpaceShapeAnalyzer.cpp -std=c++11
+   ```
 
-Navigate to the project directory and compile the program using your C++ compiler. For example, if you are using `g++`, you can compile the program like this:
-
-g++ -o Assn2 Assn2.cpp -std=c++11
-
-After compiling, you can run the program by executing:
-
-./Assn2
-
-Follow the on-screen prompts to input sensor data, compute areas, generate reports, and sort data as needed.
+3. **Run the Program**:
+   Execute the compiled program:
+   ```bash
+   ./SpaceShapeAnalyzer
+   ```
+   Follow the on-screen instructions to input data and utilize the program's functionalities.
 
 ## Contributing
 
-Contributions to the Space Shape Analyser Program are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+We welcome your contributions! To suggest improvements or new features, please follow these steps:
 
-## License
+1. **Fork the Repository**.
+2. **Create a Feature Branch** (`git checkout -b feature-branch`).
+3. **Commit Your Changes** (`git commit -am 'Add some feature'`).
+4. **Push to the Branch** (`git push origin feature-branch`).
+5. **Submit a Pull Request**.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Contact Information
+
+Should you have any queries or need further information, feel free to contact me:
+
+- **Email**: jayakuma006@mymail.sim.edu.sg
+- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
