@@ -35,18 +35,40 @@ To set up the Space Shape Analyzer Program, you'll need a C++ compiler. Follow t
 
 ## Contributing
 
-We welcome your contributions! To suggest improvements or new features, please follow these steps:
+Your contributions are welcome! If you have ideas for improvements or new features:
 
-1. **Fork the Repository**.
-2. **Create a Feature Branch** (`git checkout -b feature-branch`).
-3. **Commit Your Changes** (`git commit -am 'Add some feature'`).
-4. **Push to the Branch** (`git push origin feature-branch`).
-5. **Submit a Pull Request**.
+1. **Fork the Repository**
+   - Click the "Fork" button at the top right of the repository page to create a copy in your GitHub account.
+
+2. **Create a New Branch**
+   - Open your terminal and switch to the repository directory.
+   - Create and switch to a new branch:
+     ```bash
+     git checkout -b feature-branch
+     ```
+
+3. **Commit Your Changes**
+   - Make your desired changes in the code.
+   - Stage and commit your changes with a descriptive message:
+     ```bash
+     git commit -am 'Add new feature: description'
+     ```
+
+4. **Push to the Branch**
+   - Push your changes to the newly created branch in your forked repository:
+     ```bash
+     git push origin feature-branch
+     ```
+
+5. **Submit a Pull Request**
+   - Go to the original repository and click on the "Pull Requests" tab.
+   - Click the "New Pull Request" button.
+   - Select your branch and provide a clear description of your changes.
 
 ## Contact Information
 
-Should you have any queries or need further information, feel free to contact me:
+For more information or if you have any questions, please reach out:
 
-- **Email**: jayakuma006@mymail.sim.edu.sg
+- **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
