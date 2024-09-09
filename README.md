@@ -11,13 +11,13 @@ The Space Shape Analyzer Program is a C++ application that analyzes 2D geometric
 - **Shapes Report**: Generates detailed reports highlighting points on the perimeter and inside the shape.
 - **Sort Shape Data**: Sorts shape data by type, area (in ascending or descending order), and other specific criteria.
 
-## Project Setup
+## Setup
 
 To set up the Space Shape Analyzer Program, you'll need a C++ compiler. Follow these steps to get started:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/space-shape-analyzer.git
+   git clone https://github.com/aakileshjayakumar/space-shape-analyzer.git
    ```
 
 2. **Compile the Program**:
@@ -31,29 +31,3 @@ To set up the Space Shape Analyzer Program, you'll need a C++ compiler. Follow t
    ```bash
    ./SpaceShapeAnalyzer
    ```
-   Follow the on-screen instructions to input data and utilize the program's functionalities.
-
-## Contributing
-
-Your contributions are welcome! If you have ideas for improvements or new features:
-
-1. **Fork the Repository**
-2. **Create a Branch:**
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Commit Changes:**
-   ```bash
-   git commit -am 'Add new feature: description'
-   ```
-4. **Push to Branch:**
-   ```bash
-   git push origin feature-branch
-   ```
-5. **Submit a Pull Request**
-
-## Contact
-
-- **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
-- **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
